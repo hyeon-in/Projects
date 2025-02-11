@@ -2,6 +2,15 @@
 - [**GitHub Profile**](https://github.com/hyeon-in) 
 
 ---
+# 📑 목차
+1. [Personal Projects (개인 프로젝트)](#-personal-projects개인-프로젝트)
+    - [Original Games (1차 창작)](#-original-games-1차-창작)
+    - [Fan Games (2차 창작)](#-fan-games-2차-창작)
+2. [Collaborative Projects (협업 프로젝트)](#-collaborative-projects-협업-프로젝트)
+    - [Original Games (1차 창작)](#-original-games-1차-창작-1)
+    - [Fan Games (2차 창작)](#-fan-games-2차-창작-1)
+
+---
 
 # 🧑🏻‍💻 Personal Projects(개인 프로젝트)
 
