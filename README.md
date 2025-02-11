@@ -35,9 +35,8 @@
 
 ## 🎨 **Fan Games (2차 창작)**  
 
-## [Trickcal](https://www.trickcal.com/)
-
-### [Ed Defense](https://github.com/hyeon-in/Ed-Defense)  
+### [Ed Defense](https://github.com/hyeon-in/Ed-Defense)
+- **원작**: [Trickcal](https://www.trickcal.com/)
 - **플랫폼**: Windows, HTML5, Android  
 - **장르**: 디펜스 게임  
 - **개발 기간**: 2024-04-20 ~ 2024-04-26
@@ -75,9 +74,8 @@
 
 ## 🎨 **Fan Games (2차 창작)**  
 
-## [Blue Archive](https://www.trickcal.com/)
-
-### [Arona Shaker](https://aronashaker.netlify.app/)  
+### [Arona Shaker](https://aronashaker.netlify.app/) 
+- **원작**: [Blue Archive](https://www.trickcal.com/)
 - **플랫폼**: HTML5  
 - **개발 기간**: 2025-01-12 ~ 2025-01-13  
 - **개발 인원**: 2명
