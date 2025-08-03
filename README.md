@@ -72,7 +72,7 @@
   - 장애물 회피 또는 파괴를 통해 위기 극복  
 - **사용 기술 및 프로그램**: Godot Engine, GDScript, Aseprite, GitHub  
 
-### [Narcolepsy Hero]((https://hyeonin.itch.io/narcolepsy-hero))  
+### [Narcolepsy Hero](https://hyeonin.itch.io/narcolepsy-hero)
 - **플랫폼**: HTML5  
 - **장르**: 탑다운 액션 어드벤처
 - **개발 기간**: 2025-07-31 ~ 2025-08-03 
