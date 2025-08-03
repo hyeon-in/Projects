@@ -72,6 +72,19 @@
   - 장애물 회피 또는 파괴를 통해 위기 극복  
 - **사용 기술 및 프로그램**: Godot Engine, GDScript, Aseprite, GitHub  
 
+### [Narcolepsy Hero]((https://hyeonin.itch.io/narcolepsy-hero))  
+- **플랫폼**: HTML5  
+- **장르**: 탑다운 액션 어드벤처
+- **개발 기간**: 2025-07-31 ~ 2025-08-03 
+- **개발 인원**: 2명
+  - Hyeonin: Programmer  
+  - [OJIBI](https://x.com/o0000000000__): Artist  
+- **개발 목적**: [GMTK Game Jam 2025](https://itch.io/jam/gmtk-2025) 참가  
+- **특징**:
+  - 졸음으로 인해 계속 집으로 돌아가게 되는 루프 구조
+  - 탐색과 발견, 그리고 지형 기억이 핵심인 구조적 레벨 디자인
+- **사용 기술 및 프로그램**: Unity, C#, Aseprite, GitHub  
+
 ## 🎨 **Fan Games (2차 창작)**  
 
 ### [Arona Shaker](https://aronashaker.netlify.app/) 
